@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Abington in the county of Berks. Febr. 19, 1642 by Iohn Straight ...</title>
+            <author>Straight, John, 1605?-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61730</idno>
+            <idno type="STC">Wing S5807</idno>
+            <idno type="STC">ESTC R32679</idno>
+            <idno type="EEBO-CITATION">12744987</idno>
+            <idno type="OCLC">ocm 12744987</idno>
+            <idno type="VID">93231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Abington in the county of Berks. Febr. 19, 1642 by Iohn Straight ...</title>
+                  <author>Straight, John, 1605?-1680.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped and tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93231:1"/>
+            <pb facs="tcp:93231:1" rendition="simple:additions"/>
+            <p> A SERMON Preached at ABINGTON in the County of BERKS.</p>
+            <p>Febr. 19. 1642.</p>
+            <p>
+               <hi>By</hi> IOHN STRAIGHT Maſter of Arts, and ſometimes Scholler of <hi>Queens</hi> Colledge in <hi>Cambridge,</hi> now Vicar of <hi>Sto<g ref="char:EOLhyphen"/>werpaine</hi> in the County of <hi>Dorſet,</hi> and Chaplaine to the late Lord Biſhop of <hi>Salisbury.</hi>
+            </p>
+            <p>
+               <hi>Containing,</hi> Chriſts ſerious aſſe<g ref="char:EOLhyphen"/>veration and prote<g ref="char:EOLhyphen"/>ſtation of the</p>
+            <list>
+               <item>1 True Chriſtians ſad Lamentation.</item>
+               <item>2 Wicked worldlings mad Exultation.</item>
+               <item>3 Good Chriſtians glad Exaltation.</item>
+            </list>
+            <q>
+               <p>Be glad O yee righteous, and rejoyce in the Lord: and be joyfull all yee that are true of heart,</p> 
+               <bibl>
+                  <hi>Pſal.</hi> 32. 12.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Eſt gaudium quod non datur impiis, ſed eis qui te gratis colunt, quorum gau<g ref="char:EOLhyphen"/>dium tu ipſe es, &amp;c.</hi>
+               </p>
+               <bibl> Aug. lib. 9. Confeſſ.</bibl>
+            </q>
+            <p>Printed in the yeare 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93231:2"/>
+            <pb facs="tcp:93231:2"/>
+            <head>
+               <hi>To the</hi> READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Never was ambitious to ſee my ſelfe in print: They that know me can teſtifie for me how much I ſtand affected to privacy and retiredneſſe. This Sermon of mine was never meant for the preſſe, though now it be con<g ref="char:EOLhyphen"/>ſtrained to ſhew it ſelfe in publique. It was extorted from me at <hi>Abington,</hi> where I was taken up as a Spie, and detained by the ſpace of five dayes in the nature of a priſoner; ha<g ref="char:EOLhyphen"/>ving things laid to my charge that I never <note place="margin">Fiebile princi<g ref="char:EOLhyphen"/>pium, melior fortuna ſecutae eſt. Ovid.</note> knew, my known Innocence at length out-poiſed all my accuſations, &amp; I ſtood as I deſer<g ref="char:EOLhyphen"/>ved, <hi>Rectus in Curia.</hi> But preach I muſt, I could not be diſmiſt without the undergoing of that taske; I did; and was no ſooner come home
+<pb facs="tcp:93231:3"/> but preſently (the next weeke after) I heard by a neighbour a gentleman of no mean quality, that there were Copies of this my Sermon a<g ref="char:EOLhyphen"/>broad, taken it ſeemes by ſome Stenogra<g ref="char:EOLhyphen"/>phers, tranſcribed, and ſent into the Country after me, and there paſſing from hand to hand. I know not how they have dealt with me in their notes, but fearing leaſt they ſhould patch up any thing with their owne additi<g ref="char:EOLhyphen"/>ons, and ſo make me ſpeake that which I ne<g ref="char:EOLhyphen"/>ver meant, I have therefore adventured (and yet not without the inſtigation of ſome ſpeci<g ref="char:EOLhyphen"/>all freinds) to expoſe this Sermon, juſt as it was then delivered to thy impartiall view. To thee I ſay I ſubmit it <hi>non modo tanquam ad pium lectorem, ſed &amp; ad liberum correctorem;</hi> 
+               <note place="margin">Aug.</note> And ſo I commend thee to God, this Sermon to thine and the worlds light, and my ſelfe to thy favourable cenſure and faithfull prayers, remaining</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord Ieſus</hi> IOHN STRAIGHT.</signed>
+               <dateline>
+                  <hi>From my ſtudy in</hi> Sto<g ref="char:EOLhyphen"/>werpaine <date>
+                     <hi>this</hi> 28 <hi>of March</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93231:3"/>
+            <head>A Sermon Preached at <hi>Abington</hi> in the County of <hi>Berks Feb.</hi> 19. 1642.</head>
+            <epigraph>
+               <bibl>JOHN 16. 20.</bibl>
+               <q>Verily verily I ſay unto you, that yee ſhall weepe and lament, but the world ſhall rejoyce; and yee ſhall be ſorrowfull, but your ſorrow ſhall be turned into joy.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Iſerable are the defects, and many are the infirmities, of the very beſt of Gods chil<g ref="char:EOLhyphen"/>dren in all eſtates, and degrees; <hi>If David a man after Gods owne heart</hi> (as the Scri<g ref="char:EOLhyphen"/>pture ſtiles him) be but a while compaſ<g ref="char:EOLhyphen"/>ſed about with the hedge of proſperity, he will thinke, nay he will ſay, he ſhall <hi>ne<g ref="char:EOLhyphen"/>ver be moved, Pſal.</hi> 30. 6. <hi>dixi in proſperitate mea non move<g ref="char:EOLhyphen"/>bor</hi> 
+               <note place="margin">Pſal. 30. 6.</note> 
+               <hi>in aeternum.</hi> If good <hi>Hezekiah</hi> have but ſucceſſe in battell, and get the victory over his enemies, he is preſently ſo lifted up with pride of the conqueſt, and greatneſſe of his treaſures that he ſhewes them in oſtentation to the Embaſſadors of <hi>Babilon.</hi> 2. <hi>Kings.</hi> 20. 13. So likewiſe on the contrary, If <note place="margin">2. Kings. 20. 13.</note> God to reclaime his children from this <hi>Charybdis</hi> of preſum<g ref="char:EOLhyphen"/>ptuous oblivion or rather indeed oblivious preſumption, doe
+<pb n="2" facs="tcp:93231:4"/> but a little whip them with his rod of adverſity, they are in<g ref="char:EOLhyphen"/>ſtantly ready to run into a <hi>Scylla</hi> of deſperate dejection: Thus <hi>David</hi> himſelfe changed his <hi>non movebor in aeternum</hi> in<g ref="char:EOLhyphen"/>to a <hi>conturbatus ſum, Pſal.</hi> 30. 7. Nay more, into an <hi>Hath God</hi> 
+               <note place="margin">Pſal. 30. 7.</note> 
+               <hi>forgotten to be gracious? and will he ſhut up his loving mercy in diſpleaſure? Pſal.</hi> 77. 9. Thus likewiſe was the Prophet <hi>Je<g ref="char:EOLhyphen"/>remy</hi> 
+               <note place="margin">Pſal. 77. 9.</note> with paine driven to and fro 'twixt hope and deſpaire, <hi>Lam.</hi> 3. 18. <hi>And I ſaid, my ſtrength and my hope is periſhed</hi> 
+               <note place="margin">Lam. 3. 18.</note> 
+               <hi>from the Lord;</hi> Such, ſuch (Beloved) is the frailty, and ſo great is the weakeneſſe of the very beſt of Gods Champions, that, what with the conſiderations of the proſperity of the wicked (at which <hi>Davids feete were almoſt gone, and his ſteps had well neere ſlipt:</hi> as <hi>Pſalm.</hi> 73. 2) and what on the other ſide, with the contemplation of the adverſity and afflicted life of the righteous, they are ſo dejected, that they are even rea<g ref="char:EOLhyphen"/>dy to faint, if not forſake their colours. Our bleſſed Saviour therefore with his all-ſeeing eye obſerving this puſillanimity in his ſelected Diſciples, to the end they might neither be o<g ref="char:EOLhyphen"/>vermuch dejected by viewing the externall felicity of wic<g ref="char:EOLhyphen"/>ked worldlings, nor yet on the other ſide, too farre caſt down by reflecting on their owne miſeries, he makes them before his aſſention many choice cordialls againſt all diſtractions: As firſt, <hi>Let not your hearts be troubled, ye beleeve in God, be<g ref="char:EOLhyphen"/>leeve alſo in mee, John</hi> 14. 1. And againe, <hi>Peace I leave with you, my peace I give unto you, let not your hearts be troubled nor feare, Jo.</hi> 14. 27. And yet againe, <hi>Theſe things have I ſpoken unto you, that my joy might remaine in you, and that your joy might be full, Jo.</hi> 15. 11. And this alſo of my text, <hi>Verily, ve<g ref="char:EOLhyphen"/>rily I ſay unto you, that yee ſhall weepe and lament, and the world ſhall reioyce, and ye ſhall ſorrow, but your ſorrow ſhall be turned to joy.</hi> Which words doe naturally reſolve themſelves into theſe foure particulars, viz. 1 Into <hi>ſerious Proſtetation,</hi> 2 <hi>A ſad Lamentation,</hi> 3 <hi>A mad exultation.</hi> 4 <hi>A glad alteration,</hi>
+            </p>
+            <p>
+               <hi>The ſerious Proteſtation</hi> in theſe words, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>verily verily I ſay unto you. The ſad lamentation</hi> in theſe, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>Ye ſhall weep, Lament, and</hi>
+               <pb n="3" facs="tcp:93231:4"/> 
+               <hi>ſorrow. The mad exultation</hi> in theſe, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>And the world ſhall reioyce. The glad Alteration</hi> in the laſt words, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>but your ſorrow ſhall be turned into ioy.</hi> Of theſe in their order, &amp; firſt of the firſt, <hi>The ſerious Proteſtation</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>verily verily I ſay unto you.</hi>
+            </p>
+            <p>And here (not to trouble you with any tedious diſcourſe concerning the various acception of this word <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the <hi>O<g ref="char:EOLhyphen"/>riginall)</hi> it being taken here neither <hi>Nominally</hi> for truth, nor <hi>Verbally</hi> for <hi>fiat,</hi> or be it ſo, but for an <hi>Adverbiall aſſeveration,</hi> for <hi>verè,</hi> verily, or truely: The ingemination whereof ſerves both to invite your beſt attentions, as alſo to procure your moſt heedfull obſervation to that which followes as moſt worthy to be received, <hi>Verily verily I ſay unto you;</hi> as if Our Saviour Chriſt had thus ſaid: That which I declare unto you is no doubtfull dreame, no incertaine cogitation; no, nor yet a<g ref="char:EOLhyphen"/>ny fickle conjecture, but a moſt certaine, firme, ſtable, and in<g ref="char:EOLhyphen"/>fallible truth, which ſhall not be changed, altered, nor revo<g ref="char:EOLhyphen"/>ked, it being ſo decreed by God, and therefore of neceſſity muſt really come to paſſe; doe not therefore thinke that I ſpeake this to you raſhly, or ſlenderly, onely by the way, but know that I am in good earneſt, and avouch it conſtantly, and that with a double aſſeveration, <hi>verily verily I ſay unto you.</hi>
+            </p>
+            <p>But why did our bleſſed Saviour thus geminate his aſſeve<g ref="char:EOLhyphen"/>ration? what, would not his ſingle affirmation have beene a ſufficient warrant for any to rely on, who was truth it ſelfe? Or might not his bare word have deſervedly obtained credit, who could not lye? For <hi>Heaven and Earth ſhall paſſe away but not one jot or tittle of his word ſhall periſh or fall to the ground.</hi> Surely (beloved) this emphaticall iteration of our Saviours <hi>verily</hi> here, was to extirpate that ſecure careleſ<g ref="char:EOLhyphen"/>neſſe which he ſaw lurking in his owne Diſciples; he knew full well the paraſiticall diſpoſition of mans depraved nature to be ſuch that if it but a while enjoyed peace and proſperity (as altogether forgetfull of its owne miſerable condition and never thinking of, much leſſe expecting the billowes of imi<g ref="char:EOLhyphen"/>nent and approaching adverſity) 'twould be ready to ſooth
+<pb n="4" facs="tcp:93231:5"/> up it ſelfe with a vaine conceit of continued content, even of enjoying perpetuall peace; And therefore, that the ſuddaine ſeizure of ſad diſcontents, and fearefull frownings of inexpe<g ref="char:EOLhyphen"/>cted oppoſitions might not over whelme them, our Saviour Chriſt rouzes them up here, with a moſt patheticall praedicti<g ref="char:EOLhyphen"/>on of their future calamities <hi>verily verily I ſay unto you.</hi>
+            </p>
+            <p>Diſeaſes once diſcovered are accounted as halfe cu<g ref="char:EOLhyphen"/>red, and miſeries foretold as halfe prevented <hi>premonitio eſt premunitio,</hi> forewarning is thus a fore-arming. Afflicti<g ref="char:EOLhyphen"/>ons greateſt augmenter is inexpectation: when thwar<g ref="char:EOLhyphen"/>ting croſſes come ſuddainely and unlooked for, they di<g ref="char:EOLhyphen"/>ſtract the mind and drive the faculties from their due con<g ref="char:EOLhyphen"/>ſultation of remedy; Thus the ſuddaine falling of a houſe is more perillous then the riſing of a flood; for while of the for<g ref="char:EOLhyphen"/>mer, the hurt is unavoydable by reaſon both of the violence and precipitation, the latter through the warning and appea<g ref="char:EOLhyphen"/>rance of it's coming is leſſe dangerous, leſſe prejudiciall; <hi>Te<g ref="char:EOLhyphen"/>la previſa minus feriunt quam repentina.</hi> Chriſt therefore that neither the ſuddaine aſpect of diſtaſtfull afflictions might diſtract his choſen, nor yet the unlooked for acceſſe of cruell calamities might offend his children, he forewarnes them <note place="margin">Jo 16. 2.</note> here of them: <hi>They ſhall excommunicate you, yea the time ſhal come that whoſoever kills you will thinke that he doth God ſer<g ref="char:EOLhyphen"/>vice;</hi> 
+               <note place="margin">Jo 16. 4.</note> 
+               <hi>But theſe things have I told you, that ye ſhould not be of<g ref="char:EOLhyphen"/>fended; and theſe things have I ſaid unto you that when the houre ſhall come, ye might remember that I told you them,</hi> For <hi>Verily verily I ſay unto you that ye ſhall weepe lament and ſorrow.</hi>
+            </p>
+            <p>O then put we not far off the evill day, but rather provide we for perillous times, for much more hard is the winter to the graſſehopper then the piſmire, who before having ſtored <note place="margin">1 Theſſ: 5. verſes 6 &amp; 8.</note> her garner, is now able to withſtand a famine. <hi>Let us not therefore ſleepe as doe others, but let us watch and be ſober, let us which are of the day put on the breaſt plate of faith, and love, and the hope of ſalvation for an helmet, for verily verily I ſay unto you that ye ſhall weepe, lament, and ſorrow.</hi> And this be breifly ſpoken of my firſt particular, <hi>the ſerious proteſtation, verily</hi>
+               <pb n="5" facs="tcp:93231:5"/> 
+               <hi>verily I ſay unto you.</hi> The <hi>ſecond</hi> followes, which is the <hi>ſad Lamentation,</hi> expreſt in theſe words, ye <hi>ſhall weepe, lament, and ſorrow.</hi>
+            </p>
+            <p>
+               <hi>Ye ſhall weep, lament, and ſorrow.</hi> Theſe three words they have their ſeverall ſignifications: For firſt <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ye ſhall weepe</hi> imports a clamourous kind of howling, as <hi>Mat.</hi> 2, 18. <note place="margin">Math. 2. 18.</note> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>In Rama was a voice heard, mourn<g ref="char:EOLhyphen"/>ing, and weeping, and great howling, Rachel weeping for her children &amp;c.</hi> Secondly <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ye <hi>ſhall lament or mourne,</hi> denotes a continued courſe of ſorrow and implies an habi<g ref="char:EOLhyphen"/>tuall kinde of heavineſſe. Thirdly and laſtly <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ye <hi>ſhall ſorrow or greive,</hi> ſignifies a dumpiſh ſadneſſe or contri<g ref="char:EOLhyphen"/>ſtation of the ſpirits, [<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp; ne contriſtate] and greive not the ſpirit of God Eph.</hi> 4. 30. <hi>Ci<g ref="char:EOLhyphen"/>tius</hi> 
+               <note place="margin">
+                  <hi>Eph</hi> 4. 30.</note> 
+               <hi>deſint lacrymae quàm cauſa lacrymandi:</hi> (ſo ſometime <hi>Se<g ref="char:EOLhyphen"/>neca) far ſooner ſhall watery teares be wanting, then cauſe of</hi> 
+               <note place="margin">Seneca.</note> 
+               <hi>weeping ſhall ceaſe.</hi> For indeed infinite are the cauſes that force the faithfull to weepe and lament from <hi>birth</hi> to <hi>buriall,</hi> yea and of exceeding efficacy are the motives that make the righteous thus to ſorrow even from <hi>Cradle to Coffin:</hi> which as for brevity, ſo likewiſe for perſpicuities ſake I ſhall en<g ref="char:EOLhyphen"/>deavour to reduce to theſe ſix <hi>ſubſequent heads.</hi>
+            </p>
+            <p>Firſt therefore every true child of God ſhall and muſt <note place="margin">1 cauſe of <hi>wee<g ref="char:EOLhyphen"/>ping,</hi> our <hi>owne</hi> ſinnes.</note> weepe, both for the Remnants of ſin remaining in him, as al<g ref="char:EOLhyphen"/>ſo for his owne actuall ſinnes daily committed againſt God. For this cauſe <hi>Saint Paul</hi> wearied with miſerable and conti<g ref="char:EOLhyphen"/>nuall conflicts, and as yet in part ſubject to ſin cryes out <hi>O wretched man that I am who ſhall deliver mee from this body of death. Rom:</hi> 7. 24. And as originall ſin wreſted this heavy <note place="margin">Rom. 7. 24.</note> exclamation from this holy Apoſtle, ſo likewiſe did actuall ſinnes wring from that ſinfull woman (for ſo ſhe is ſtiled <hi>Luke</hi> 7. 37.) abundance of teares: they turned her laſcivious <note place="margin">Luk: 7. 37.</note> lookes to lamenting, and her wanton eyes to weeping. Yea and this was the cauſe that made <hi>Saint Peter goe out, and weepe bitterly. Math.</hi> 26. 75. <hi>Flevit amarè ut lachrymae lava<g ref="char:EOLhyphen"/>rent</hi> 
+               <note place="margin">Math: 26. 75. <hi>Ambr.</hi>
+               </note> 
+               <hi>delictum, tu ſimiliter lachrymis dilue culpam, So Saint</hi>
+               <pb n="6" facs="tcp:93231:6"/> 
+               <hi>Ambroſe, he wept bitterly that teares might cleanſe or waſh a<g ref="char:EOLhyphen"/>way</hi> 
+               <note place="margin">Ambr:</note> 
+               <hi>his offence, doe thou in like manner purge, and put away thy fault with teares:</hi> ſhed thou teares for thy intemperance, for thy impatience, for thy anger, for thy malice &amp;c.</p>
+            <p>Secondly ye ſhall weepe for the ſinnes of others too: and <note place="margin">2 cauſe of <hi>wee<g ref="char:EOLhyphen"/>ping,</hi> others ſin.</note> though it be true that the beſt of Gods children cannot weep too much or rather indeed enough for their owne ſinnes, yet muſt they weepe for the ſinnes of others alſo: like the wi<g ref="char:EOLhyphen"/>dow of <hi>Zarephta</hi> who though ſhe had not <hi>meale</hi> in her <hi>fer<g ref="char:EOLhyphen"/>kin</hi> nor <hi>oyle</hi> in her <hi>cruſe</hi> for the ſuſteining of her ſelfe and her child, yet ſpared ſome for the Prophet <hi>Elijah.</hi> And thus did <note place="margin">1 Kings 17.</note> juſt <hi>Lot</hi> weep for the ſinfull converſation of the wicked <hi>So<g ref="char:EOLhyphen"/>domites;</hi> for he <hi>being righteous &amp; dwelling among them, in ſeing and hearing, vexed his righteous ſoule from day to day with their unlawfull deeds,</hi> as 2. <hi>Pet:</hi> 2. 8. For ſo great is the holy Indig<g ref="char:EOLhyphen"/>nation <note place="margin">2 Pet. 2. 8.</note> that Gods children beare againſt ſinne, and ſuch deepe impreſſion of greife doth the perpetration thereof ſtrike in the righteous, that if it were poſſible for them to weepe even <hi>rivers of teares,</hi> yet could not their ſorrow be exhauſted, un<g ref="char:EOLhyphen"/>leſſe ſinne did ceaſe; witneſſe the <hi>man after Gods owne heart, mine eyes guſh out with rivers of water becauſe men keepe not thy law Pſal:</hi> 119: 136. This was it that cauſed Saint <hi>Paul</hi> 
+               <note place="margin">Pſal. 119. 136.</note> with ſorrow and teares, to paint out the <hi>falſe Apoſtles</hi> in their colours <hi>Phil:</hi> 3. 18. For <hi>many walke</hi> (ſaith he) <hi>of whom I</hi> 
+               <note place="margin">Phil. 3. 18.</note> 
+               <hi>have told you often;</hi> why then (may ſome man ſay) do you tell us any more? Yes <hi>and now I tell you weeping, that they are the enemies of the croſſe of Chriſt.</hi> Yea <hi>Chriſt</hi> himſelfe wept thus for <hi>Jeruſalem Luke</hi> 19. 41, 42. And <hi>when he was come</hi> 
+               <note place="margin">Luke 19. 41, 42</note> 
+               <hi>neare, he beheld the City and wept for it, ſaying, O if thou hadſt even knowne, at the leaſt in this thy day, thoſe things which be<g ref="char:EOLhyphen"/>long unto thy peace! but now are they hid frrom thine eyes.</hi> This, this (beloved) is a ſure ſigne of a good <hi>Nathaniell</hi> and an in<g ref="char:EOLhyphen"/>fallible token of a true <hi>Iſraelite,</hi> viz: to weepe in ſecret for the ſinnes of others, yea and cry out againſt the wickedneſſe committed againſt God in the land. And the <hi>Lord ſaid unto him</hi> (viz. the Angell) <hi>goe through the midſt of the City, even</hi>
+               <pb n="7" facs="tcp:93231:6"/> 
+               <hi>through the midſt of Jeruſalem and ſet a marke upon the fore<g ref="char:EOLhyphen"/>heads of them that mourne, and cry for all the abominations that be done in the midſt thereof.</hi> ſo ye may find it, <hi>Ezekiel.</hi> 9. 4. <note place="margin">Ezek. 9. 4.</note>
+            </p>
+            <p>Thirdly, ye ſhall lament or mourne for the Judgements of <note place="margin">3. Cauſe of weeping, Open and ge<g ref="char:EOLhyphen"/>nerall Judge<g ref="char:EOLhyphen"/>ment.</note> God on the land take the Prophet <hi>Jeremy</hi> for a patterne, who in this caſe thus cryes out <hi>Jer.</hi> 4. 19. My <hi>belly, my belly, I am pained even at the very heart, mine heart is troubled within mee, I cannot be ſtill: for my ſoule hath heard the ſound of the trum<g ref="char:EOLhyphen"/>pet</hi> 
+               <note place="margin">Jer. 4. 19.</note> 
+               <hi>and the alarme of the battaile, deſtruction upon deſtruction &amp;c.</hi> and againe <hi>Chap.</hi> 8. 21. <hi>I am ſore vexed for the hurt of</hi> 
+               <note place="margin">Jer: 8. 21:</note> 
+               <hi>the daughter of my people, I am heavy, and aſtoniſhment hath ta<g ref="char:EOLhyphen"/>ken mee.</hi> Nay yet more pathetically doth this Prophet declare his compaſſionate greife for this people, and therefore as one that could never ſufficiently lament their deſtruction, he cryes out, <hi>Oh that mine head were full of water, and mine eyes a fountaine of teares, that I might weepe day and night for the ſlaine of the daughter of my people. Oh that I had in the wilder<g ref="char:EOLhyphen"/>neſſe a cottage of way-faring men &amp;c. as Jer.</hi> 9. 1, 2. <note place="margin">Jer 9. 1, 2.</note>
+            </p>
+            <p>Fourthly ye ſhall mourne for the afflictions of poor <hi>Ioſeph;</hi> 
+               <note place="margin">4 Cauſe of <hi>weeping,</hi> private and par<g ref="char:EOLhyphen"/>ticular Afflicti<g ref="char:EOLhyphen"/>ons.</note> and as feeling members one of anothers miſery, ye ſhall la<g ref="char:EOLhyphen"/>ment for thoſe that are toſt from poſt to pillar, that are dri<g ref="char:EOLhyphen"/>ven from houſe and home, (in a word) that are for Chriſts ſake brought to great extremity. <hi>They drinke wine in bowles</hi> (ſaith the Prophet <hi>Amos) and anoint themſelves with the cheif ointments, but no man is ſorry for the afflictions of Ioſeph There<g ref="char:EOLhyphen"/>fore now ſhall they go captive, with the firſt that go captive, &amp;c.</hi> 
+               <note place="margin">Amos 6. 6. 7.</note> 
+               <hi>Amos</hi> 6. 6, 7. <hi>mine eye caſteth out rivers of water for the deſtru<g ref="char:EOLhyphen"/>ction of the daughter of my people, yea mine eye droppeth with<g ref="char:EOLhyphen"/>out ſtay and ceaſeth not, Lam:</hi> 3. 48, 49. <note place="margin">Lam. 3. 48. 49.</note>
+            </p>
+            <p>Fifthly, ye ſhall ſorrow for the loſſe of deare freinds, thus <note place="margin">5 Cauſe of weeping, loſſe of freinds. 2. Sam. 1. 26. 2 Sam. 18. 33. Jo. 11. 35. 6 cauſe of <hi>weep<g ref="char:EOLhyphen"/>ing,</hi> our <hi>pilgri<g ref="char:EOLhyphen"/>mage</hi> here,</note> 
+               <hi>David</hi> ſorrowes for the loſſe of deare <hi>Ionathan,</hi> woe <hi>is mee for thee my brother Ionathan</hi> 2 <hi>Sam.</hi> 1. 26. and he is likewiſe greatly perplexed with the untimely death of his ſonne <hi>Ab<g ref="char:EOLhyphen"/>ſalom</hi> 2 <hi>Sam:</hi> 18. 33. thus <hi>Mary</hi> yea and <hi>Chriſt</hi> himſelfe doe weepe for <hi>Lazarus Io:</hi> 11. 35.</p>
+            <p>
+               <hi>Sixthly</hi> and laſtly, ye ſhall ſigh and ſorrow to becauſe you
+<pb n="8" facs="tcp:93231:7"/> are but as <hi>Pilgrims</hi> here, <hi>ſitting by the rivers of Babel,</hi> (the world according to Saint <hi>Chryſoſtomes</hi> gloſſe, oppreſt with various calamities) weeping at the remembrance of your ſpirituall <hi>Sion.</hi> For <hi>therefore we ſigh, earneſtly deſireing to be clothed with our houſe which is from heaven, ſo Saint Paul,</hi> 2 <hi>Cor:</hi> 5. 2. <hi>verily verily I ſay unto you that ye ſhall weepe, la<g ref="char:EOLhyphen"/>ment,</hi> 
+               <note place="margin">2 <hi>Cor.</hi> 5. 2.</note> 
+               <hi>and ſorrow.</hi> [Ye ſhall <hi>weepe]</hi> for your owne ſinnes, and 2 for the ſinnes of others: [Ye ſhall <hi>lament]</hi> 3 for the Judge<g ref="char:EOLhyphen"/>ments of God on the land, and 4 for the afflictions of poore <hi>Joſeph:</hi> [Ye ſhall <hi>ſorrow]</hi> 5 for the loſſe of deere freinds, and 6 for your owne bitter peregrination here in this world.</p>
+            <p>Pilgrimage you know is alwaies perillous, Gods children then who <hi>are but pilgrimes here,</hi> muſt not expect an immu<g ref="char:EOLhyphen"/>nity <label type="milestone">
+                  <seg type="milestoneunit">Obſervat. </seg>1</label> from the croſſe, nor muſt the righteous think to be free from afflictions: no, <hi>we muſt through many afflictions enter into the Kingdome of God, as Acts</hi> 14. 22. <hi>yea and all that will live godly in Chriſt Ieſus, ſhall ſuffer perſecution, as</hi> 2 <hi>Tim</hi> 3. 12. <note place="margin">Acts 14. 22.</note> 
+               <hi>Dearly beloved thinke it not ſtrange concerning the fiery triall</hi> 
+               <note place="margin">2 Tim. 3. 12.</note> 
+               <hi>which is among you, as though ſome ſtrange thing were come un<g ref="char:EOLhyphen"/>to you, as</hi> 1 <hi>Pet.</hi> 4. 12. <hi>In the world ye ſhall have affliction for the ſervant is not better then his Lord, nor the diſciple above his</hi> 
+               <note place="margin">2 Pet. 4 12,</note> 
+               <hi>Maſter, as Math.</hi> 10. 24. <hi>If therefore they have done theſe things to the greene tree, what ſhall become of the dry? verily ve<g ref="char:EOLhyphen"/>rily</hi> 
+               <note place="margin">Mat 10. 24.</note> 
+               <hi>I ſay unto you, that ye ſhall weepe, lament, and ſorrow.</hi> 
+               <note place="margin">Luke 23. 31.</note>
+            </p>
+            <p>The <hi>reaſon</hi> is evident, for <hi>ye are not of the world</hi> ſaith our Saviour, <hi>Io.</hi> 15. 19, <hi>in the world therefore ye ſhall have afflicti<g ref="char:EOLhyphen"/>on.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> There is no <hi>concord 'twixt Chriſt and Belial,</hi> nor is there <note place="margin">Jo. 15. 19. 2 <hi>Cor:</hi> 6. 14. 15</note> 
+               <hi>any agreement 'twixt light and darkneſſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">R. </seg>2</label> 
+               <hi>Secondly</hi> ye ſhall <hi>weepe, lament,</hi> and <hi>ſorrow,</hi> becauſe ye are by Chriſt the <hi>adopted children of God,</hi> it is meet therefore that ye become like unto him in affliction, who hath already trode this path of tribulation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">R. </seg>3</label> Thirdly and laſtly ye ſhall <hi>weepe, lament,</hi> and <hi>ſorrow,</hi> be<g ref="char:EOLhyphen"/>cauſe troubles are the ſureſt tutors of goodneſſe; <hi>before I was afflicted</hi> (ſaith <hi>David) I went aſtray, but now I keepe thy word. Pſal.</hi> 119. 67. How many would have died ill, if they had liv<g ref="char:EOLhyphen"/>ed <note place="margin">Pſal. 119. 67.</note>
+               <pb n="9" facs="tcp:93231:7"/> merrily without affliction? God hath ſeverall waies to reduce his little flocke from the ſtragling by pathes of de<g ref="char:EOLhyphen"/>ſtruction, yet I am perſwaded none, (none I ſay) more pow<g ref="char:EOLhyphen"/>erfull then affliction, which ſends the ſoule to meditation, whereby ſhe ſees the worlds follies in ſuch true colours of va<g ref="char:EOLhyphen"/>nity, that no ſound diſcretion can think them worth the doting on. <hi>Ideo enim Deus foelicitatibus terrenis amaritudi<g ref="char:EOLhyphen"/>nes miſoet, ut illa quaeratur foelicitas cujus dulcedo non eſt fallax.</hi> 
+               <note place="margin">
+                  <hi>Aug. ſuper Mat. Serm.</hi> 29.</note> 
+               <hi>For therefore doth God intermingle bitter in gredients with his beſt terreſtriall bleſſings, that that bleſſing might be ſought after whoſe ſweetneſſe is not counterfeit.</hi> ſo Saint <hi>Auguſtine.</hi> And indeed we ſhould ſurfeit with the counterfeit ſweetneſſe of externall affluencies, were not our proſperities a little cor<g ref="char:EOLhyphen"/>rected with the bitter pills of atflictions: <hi>'twas good for me</hi> ſaith the prophet <hi>David, that I was afflicted, that I might</hi> 
+               <note place="margin">Pſal. 119. 71.</note> 
+               <hi>learne thy ſtatutes.</hi> 'Tis noe ſmall abatement to the bitter<g ref="char:EOLhyphen"/>neſſe of adverſities, that they teach us the way to heaven. Therefore it is that ye ſhall <hi>weepe, lament, and ſorrow, viz.</hi> becauſe troubles are the beſt, the ſureſt tutors of good<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Proſperity is not then an infallible token of Gods Church, <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>1</label> nor is externall felicity the undoubted badge of a true Chri<g ref="char:EOLhyphen"/>ſtian; No, <hi>Praeſentis vitae proſperitas innocentiae teſtis non eſt, quià multi ad perrennem vitam per flagella redeunt, &amp; plerique ad infinita ſupplicia prrducendi, ſine flagello moriuntur.</hi> ſo, <note place="margin">Greg, in moral.</note> 
+               <hi>Greg. in moral:</hi> that is, <hi>the proſperity of this preſent life is no e<g ref="char:EOLhyphen"/>vident witneſſe of any mans innocency or integrity, becauſe ma<g ref="char:EOLhyphen"/>ny by adverſities whip do come to everlaſting life, and moſt of all that dye without it, are led unto endleſſe torments.</hi> The croſſe, the croſſe I ſay is the true character of <hi>Chriſts</hi> cho<g ref="char:EOLhyphen"/>ſen, <note place="margin">Math. 16. 24. Math. 10. 38. Mark. 8. 34. Luke. 9. 23.</note> 
+               <hi>if any man will be my diſciple</hi> (ſaith our Saviour) <hi>he muſt take up his croſſe and follow me.</hi>
+            </p>
+            <p>Judge not then of any man by his outward appearance, nor <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> doe you pronouce any man the happier for wallowing in worldly felicities; for <hi>difficile</hi> (ſaith Saint <hi>Hiero</hi> in one of his Epiſtles) <hi>imo impoſſibile eſt ut praeſentibus &amp; futuris</hi>
+               <pb n="10" facs="tcp:93231:8"/> 
+               <hi>quis fruatur bonis, ut &amp; hic ventrem, &amp; tibi mentem imple<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 
+               <note place="margin">Heiro in Epiſt. quadam.</note> 
+               <hi>ut a deliciis ad delicias tranſeat, &amp; in utroque ſaeculo primus <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ut in terra &amp; in caelo appareat glorioſus:</hi> 
+               <q rend="margQuotes">"that is, 'tis very hard yea almoſt impoſſible that any man ſhould enjoy both the good things of this life, and of that which is to come, that he ſhould fill his belly or ſatiate his deſires here, and his mind or will hereafter, that he ſhould paſſe from delights unto delights, that he ſhould be happy in both ages, that hee ſhould appeare both glorious here on earth, and glorious hereafter in heaven."</q> And <hi>Solomon</hi> renders us a reaſon hereof, For the <hi>Lord correcteth him whom hee loveth, even as a father doth the childe in whom hee de<g ref="char:EOLhyphen"/>lighteth, Provtrb.</hi> 3. 12. <hi>If</hi> therefore <hi>ye be without corre<g ref="char:EOLhyphen"/>ction,</hi> 
+               <note place="margin">Prov. 3. 12.</note> 
+               <hi>whereof all are partakers, then are ye baſtards and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſonnes.</hi> 'Tis the Apoſtles expreſſion <hi>Heb</hi> 12. 8. God indeed <note place="margin">Heb. 12. 8.</note> had one Son <hi>ſine flagitio,</hi> but never any <hi>ſine flagello, one with<g ref="char:EOLhyphen"/>out offence, but none without affliction.</hi> Hence is that of Saint <note place="margin">Aug. in <hi>quodam</hi> Serm:</note> 
+               <hi>Auguſtine. Nullus ſervus Chriſti ſine tribulatione eſt; Si pa<g ref="char:EOLhyphen"/>tas te non habere perſecutiones, nondum coepiſti eſſe Chriſtiann<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that is, <q rend="margQuotes">"None of Chriſtes Servants are without tribulation if therefore thou thinkeſt thou thinkeſt thou haſt no perſe<g ref="char:EOLunhyphen"/>cutions, thou haſt not yet begun to be a Chriſtian; for veri<g ref="char:EOLunhyphen"/>ly verily I ſay unto you that ye ſhall weepe, lament, and ſorrow."</q>
+            </p>
+            <p>And muſt the Croſſe thus goe before the Crowne? O the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>3</label> be ye patient all ye that mourne in <hi>Sion;</hi> ſay with holy <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in your afflictions, <hi>ſhall we receive good at the hands of God and not evill? Iob</hi> 2. 10. and with <hi>David,</hi> ſubmit your ſelves <note place="margin">Job. 2. 10.</note> to Gods good pleaſure ſaying with him alſo, <hi>here am I, let him doe to mee as ſeemeth good unto him</hi> 2 <hi>Sam:</hi> 15. 26. <hi>Nei<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <note place="margin">2 Sam. 15. 26.</note> 
+               <hi>dignemini, ſi mali in hoc mundo floreant &amp; vos patimini, qui<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non eſt Chriſtianae religionis in hoc mundo exaltari, ſed deprimi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mali nihil habent in coelo, vos nihil in mundo: ſed ſpe illius be<g ref="char:EOLhyphen"/>ni ad quod tenditis, quicquid in via contigerit gaudere debet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſo venerable <hi>Beda,</hi> that is, <hi>Doe you not diſdaine nor repi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <note place="margin">Beda.</note> 
+               <hi>though wicked men do flouriſh in this world and you ſuffer, for</hi>
+               <pb n="11" facs="tcp:93231:8"/> 
+               <hi>'tis not for Chriſtian Religion to be in this world exalted, but de<g ref="char:EOLhyphen"/>preſt, &amp; kept under: wicked men haue nothing to do in heaven, you nothing in the world: But ye ought rather to reioyce and pati<g ref="char:EOLhyphen"/>ently indure whatſoever ſhall happen to you in the way, for the hope of that good unto which ye tend. Bleſſed are they that ſuf<g ref="char:EOLhyphen"/>fer perſecution for righteouſneſſe ſake, for theirs is the King<g ref="char:EOLhyphen"/>dome of Heaven, Matth:</hi> 5. 10. How ſhould this animate, <note place="margin">Math. 5. 10.</note> how ſhould this encourage all Gods children cheere<g ref="char:EOLhyphen"/>fully to undergoe all thoſe miſeries which here they ſuf<g ref="char:EOLhyphen"/>fer, though they ſeeme never ſo harſh, never ſo greivous? eſpecially ſeeing they <hi>cannot be compared with the recom<g ref="char:EOLhyphen"/>pence,</hi> that ſhall be given us hereafter. If the threatning ſur<g ref="char:EOLhyphen"/>ges of the raging ſea are by Mariners ſleighted, if the tempe<g ref="char:EOLhyphen"/>ſtuous ſtormes of froſty winter are by husbandmen negle<g ref="char:EOLhyphen"/>cted, if cruell wounds and truculent ſlaughters are by ſoldi<g ref="char:EOLhyphen"/>ers ſet at naught, (in a word) if heavy blowes and danger<g ref="char:EOLhyphen"/>ous ſtripes ſeeme as nothing, and are eaſily borne by ſtout and valiant champions, and that onely for the vaine hope of attai<g ref="char:EOLhyphen"/>ning ſome periſhing pelfe, or atcheiving ſome temporall con<g ref="char:EOLhyphen"/>queſt, Then how much more ſhould <hi>the momentany, the light</hi> 
+               <note place="margin">2 Cor. 4. 17.</note> 
+               <hi>afflictions of this preſent life,</hi> (for ſo they are ſtiled) be by us neglected, and not eaſily onely, but cheerefully endured, for whom is certainly prepared, not a temporall, but <hi>an eternall waight of glory in the heavens? Wherefore let us alſo, ſeing that we are compaſſed with ſo great a cloud of witneſſes, caſt away e<g ref="char:EOLhyphen"/>very thing that preſſeth downe and the ſinne that hangeth on ſo faſt: let us run with patience the race that is ſet before us; loo<g ref="char:EOLhyphen"/>king unto Ieſus Chriſt the author and finiſher of our faith, who for the joy that was ſet before him, endured the croſſe, and deſpi<g ref="char:EOLhyphen"/>ſed the ſhame, and is ſet at the right hand of the throne of God. Conſider therefore him that endured ſuch contradiction of ſin<g ref="char:EOLhyphen"/>ners, leſt ye ſhould be wearied and ſaint in your mindes;</hi> ſo the Apoſtle <hi>Heb:</hi> 12. 1, 2, 3. and this of my ſecond particular, <note place="margin">Heb. 12. 1, 2, 3. various accepti<g ref="char:EOLhyphen"/>ons of the <hi>world.</hi>
+               </note> 
+               <hi>the ſad Lamentation, Ye ſhall weepe, lament, and ſorrow.</hi> I paſſe on to the <hi>third</hi> which is the <hi>mad exultation</hi> conteined in theſe words, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>but the world ſhall rejoyce.</hi>
+            </p>
+            <pb n="12" facs="tcp:93231:9"/>
+            <p> 
+               <hi>The world ſhall reioyce;</hi> By world here is not meant the creatures, nor glorious fabricke of the univerſe; nor ſecond<g ref="char:EOLhyphen"/>ly the beleivers, the righteous, or world of Elect; But in the third place, the unbeleivers, the ungodly, in a word, the world of wicked and unregenerate men, of which our bleſſed Savi<g ref="char:EOLunhyphen"/>our ſpeakes <hi>Io.</hi> 15. 18. If the <hi>world hate you, ye know it hated</hi> 
+               <note place="margin">Jo. 15. 18.</note> 
+               <hi>mee before you.</hi>
+            </p>
+            <p>But what? ſhall children be beaten with the rod, and ſhall ſlaves goe free? ſhall children ſerve at the table, and ſhall ſer<g ref="char:EOLhyphen"/>vants ſit downe? ſhall Gods deare children weepe, lament<g ref="char:punc">▪</g> and ſorrow, and ſhall the wicked worldlings rejoyce? Ye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beloved, Truth it ſelfe hath ſpoken it, and <hi>David</hi> ſeing it ve<g ref="char:EOLhyphen"/>rified, ingeniouſly confeſſed <hi>his feet were almoſt gone and his tradings had well neere flipt. Pſal.</hi> 73. 2. It hath indeed beene <note place="margin">Pſal. 73. 2.</note> alwayes a great temptation to the godly, to ſee the wicked enemies of God in proſperity, and to behold his deare chil<g ref="char:EOLhyphen"/>dren in adverſity; <hi>wherefore doth the way of the wicked proſper<g ref="char:punc">▪</g>
+               </hi> (ſaith <hi>Ieremy)</hi> and <hi>why are all they in wealth that rebelliouſly tranſgreſſe? Ier:</hi> 12. 1. <hi>wherefore dothe wicked live</hi> (ſaith <hi>Iob)</hi> 
+               <note place="margin">Jer. 12. 1</note> 
+               <hi>wax old, and grow in wealth? Iob.</hi> 21. 7. Certainely ſaith <hi>David</hi> I have <hi>clenſed my heart in vaine and waſhed mine hands in in<g ref="char:EOLhyphen"/>nocency,</hi> 
+               <note place="margin">Pſal. 73. 13.</note> 
+               <hi>for daily have I beene puniſhed and chaſtened every morning.</hi> 
+               <note place="margin">Pſal. 37. 2.</note> 
+               <hi>Pſal.</hi> 73. 13.</p>
+            <p>Thus beloved (though God be juſt in all his works and holy in all his wayes yet) man is not able to give a reaſon of all his deeds: <hi>David</hi> himſelfe <hi>ſaw not the end of theſe men till he went into the Sanctuary of God, namely, how they were ſet in ſlippery places, and though they ſeeme to flouriſh for a while like greene bay trees, yet are they ſoone cut downe like the graſſe, and</hi> 
+               <note place="margin">Pſal. 37. 2.</note> 
+               <hi>withered even as the greene herbe; O how ſoone doe they conſume, periſh, and come to a fearefull end!</hi> The righteous indeed ſhall be puniſhed, but as for the ſeed <hi>of the ungodly it ſhall be rooted out at the laſt. Pſal.</hi> 37. 29. <note place="margin">Pſal. 37. 29.</note>
+            </p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mundus autem gaudebit,</hi> But the <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> world ſhall <hi>rejoyce.</hi> The vileſt men upon earth (you ſee) may have a time of mirth in this world: The wickedeſt
+<pb n="13" facs="tcp:93231:9"/> wretches under the cope and canopy of heaven may have a time of rejoyceing, a time of proſperity here. <hi>Loe,</hi> ſaith <hi>Da<g ref="char:EOLhyphen"/>vid,) Theſe are the wicked, yet proſper they alway and increaſe in riches, Pſal.</hi> 73. 12. <hi>The earth</hi> (ſaith <hi>Iob) is given into the hand of the wicked. Iob.</hi> 9. 24. Did not curſed <hi>Cham</hi> rejoyce a while? had not cruell <hi>Cain</hi> a time of proſperity here on earth? had not the filthy <hi>Sodomites</hi> a time of <hi>jollity</hi> in this world? Had not hard-hearted <hi>Pharaoh</hi> a time of mirth in <hi>Aegypt?</hi> breifely, had not hypocriticall <hi>Saul,</hi> had not wick<g ref="char:EOLhyphen"/>ed <hi>Haman,</hi> had not treacherous <hi>Iudas</hi> their ſeverall times of rejoycing? And at this day with us, have not blaſphemous ſwearers, debauched Drunkards, prophane Papiſts, and Neu<g ref="char:EOLhyphen"/>teralizing Atheiſt, have not theſe I ſay their ſeverall times of delight and pleaſure here? we cannot deny it, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mundus enim gaudebit, for the world ſhall rejoyce.</hi>
+            </p>
+            <p>And is not this the Reaſon, namely becauſe they have <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> 
+               <hi>their portion here,</hi> becauſe their heaven is upon earth, in a word, becauſe they have all the joy here that ever they are like to have. <hi>Nam qui hic conſolantur indigni tua conſolatione habentur;</hi> ſo <hi>Aug. in Soliloque,</hi> for <hi>they that are comforted here</hi> 
+               <note place="margin">Aug: in Soli<g ref="char:EOLhyphen"/>loq:</note> 
+               <hi>with the worlds conſolations are counted unworthy of thy hea<g ref="char:EOLhyphen"/>venly conſolations hereafter. Sonne remember,</hi> ſaith <hi>Abraham</hi> to <hi>Dives, that thou in thy life time receivedſt thy pleaſures and likewiſe Lazarus his paines: now therefore is he comforted and thou art tormented, Luke</hi> 16. 25. <note place="margin">Luk. 16. 25.</note>
+            </p>
+            <p>Secondly, wicked men have a time of mirth, a time of <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> proſperity here; that they may be found without all colour of excuſe at the dreadfull day of Judgement: for by it they are as it were <hi>fatted up againſt the day of ſlaughter.</hi> But I paſſe on to the objects of this worldly joy, and (as moſt pertinent to my purpoſe in hand,) I proceed to ſhew you, wherein <note place="margin">Worldlings de<g ref="char:EOLhyphen"/>light in vvhat the godly la<g ref="char:EOLhyphen"/>ment. <hi>ſo.</hi>
+               </note> wicked men doe thus rejoyce.</p>
+            <p>Now the Object of the worlds Joy is <hi>fourefold:</hi> wicked men I ſay rejoyce eſpecially in theſe foure things: <hi>Firſt</hi> in their owne ſinnes, <hi>Secondly</hi> in the ſinnes of others, <hi>Thirdly</hi> in the miſeries of others, and <hi>Fourthly</hi> and laſtly in doing miſ<g ref="char:EOLhyphen"/>cheife unto others.</p>
+            <pb n="14" facs="tcp:93231:10"/>
+            <p> They rejoyce firſt in their owne ſinnes, <hi>Pſal.</hi> 10. 3. <hi>The</hi> 
+               <note place="margin">1 Their owne ſins, <hi>Pſal.</hi> 10. 3. <hi>Moler. Com. in locum. Superbia</hi> (inquit) <hi>impios eouſque prove<g ref="char:EOLhyphen"/>hit, ut non tan<g ref="char:EOLhyphen"/>tum pravis ſuis cupiditatibus ſecuri indulge<g ref="char:EOLhyphen"/>ant, ſed etiam ſpreto &amp; con<g ref="char:EOLhyphen"/>tempto dei judi<g ref="char:EOLhyphen"/>cio de ſua cupi<g ref="char:EOLhyphen"/>ditate, &amp; ſcele<g ref="char:EOLhyphen"/>ribus glorien<g ref="char:EOLhyphen"/>tur, ſeque omni<g ref="char:EOLhyphen"/>reatu abſolvant.</hi>
+               </note> 
+               <hi>wicked hath made boaſt of his owne hearts deſire, and the cove<g ref="char:EOLhyphen"/>teous bleſſeth himſelfe in his wickedneſſe,</hi> (that is ſaith <hi>Molerus</hi> commenting on the place, <hi>The wicked rejoyce in their ſinnes, and contemning Gods Iudgements, glory in their wickedneſſe;</hi> Such rejoycers (as they are,) <hi>Solomon</hi> derides <hi>Eccleſiaſtes</hi> 11. 9. <hi>Rejoyce O goung man in thy youth, and let thy dayes cheere thee in the dayes of thy youth, and walke in the wayes of thine heart and in the ſight of thine eyes, but yet know that for all theſe things God will bring thee to Judgement.</hi>
+            </p>
+            <p>But what? doe wicked men rejoyce only in their owne ſinnes? and doth their joy dilate it ſelfe noe further, then to delight in their owne wickedneſſe? O yes, beloved, as not content with their owne, they rejoyce in the ſinnes of others too, which is the ſecond object of the worlds Joy and wicked mens rejoycing. Thus curſed <hi>Cham</hi> rejoyced at his fathers <note place="margin">2 Others ſins.</note> nakedneſſe. <hi>Gen:</hi> 8, 22. and I would to God that this rejoy<g ref="char:EOLhyphen"/>cing <note place="margin">Gen. 8. 22.</note> were not ſo common amongſt the carowſing <hi>Chams</hi> of theſe our dayes, who impudently boaſt not only of their owne immoderate quaffing and beaſtly uncleaneneſſe, but al<g ref="char:EOLhyphen"/>ſo ſhameleſly glory in the weakeneſſe and infirmities of o<g ref="char:EOLhyphen"/>thers, O how many doe by this meanes <hi>draw iniquity with</hi> 
+               <note place="margin">Iſaiah. 5. 18. 1 Cor. 5. 6.</note> 
+               <hi>the coards of vanity, and ſin as it were with cartropes? But their rejoycing is not good. ſo the Apoſtle</hi> 1 <hi>Cor:</hi> 5, 6.</p>
+            <p>Neither is the worlds joy confined onely to theſe two, nor <note place="margin">3 Others miſe<g ref="char:EOLhyphen"/>ry?</note> yet can theſe limits comprehend the latitude of wicked mens rejoycing: for as altogether void of compaſſionate humani<g ref="char:EOLhyphen"/>ty and quite deſtitute of humane compaſſion (worſe then bruite beaſts) they rejoyce in the miſeries of others; which is the third object of the worlds joy, and wicked mens rejoy<g ref="char:EOLhyphen"/>cing. And thus did the bloudy ſouldiers rejoyce in our bleſ<g ref="char:EOLhyphen"/>ſed Saviours miſery a little before his paſſion, <hi>putting upon</hi> 
+               <note place="margin">Math: 27. 27, 28, 29, 30, 31, &amp;c.</note> 
+               <hi>him aſcarlet robe, and platting a crowne of thornes on his head, bowing in deriſion before him, with a</hi> HAILE KING OF THE JEVVES, <hi>thus likewiſe the high Preiſts mocking him, with the Scribes &amp; Elders, ſaid, he ſaved others, himſelf he cannot ſave:</hi>
+               <pb n="15" facs="tcp:93231:10"/> in a word, <hi>thus they that ſtood by</hi> at the time of his extreame torment, on the croſſe, <hi>when he cryed with a loud voyce, Eli, E<g ref="char:EOLhyphen"/>li lamaſabacthani, mockt him, with a this man calleth for Elias,</hi> when alas they knew well enough what he meant; they al<g ref="char:EOLhyphen"/>luded to <hi>Elias</hi> name, not for want of underſtanding the tongue but out of a prophane, impudent, and ſawcy mockery, thus rejoyced in his miſery. Thus alſo was holy <hi>David</hi> in his wo<g ref="char:EOLhyphen"/>full calamities derided by wicked Caitiffs, <hi>Lord</hi> (ſaith he) <hi>how</hi> 
+               <note place="margin">Pſal: 94, 3.</note> 
+               <hi>long ſhall the wicked, how long ſhall the ungodly triumph? all they that ſee me have me in deriſion, they make a mowe, and nod</hi> 
+               <note place="margin">Pſal. 22. 7, 8.</note> 
+               <hi>the head ſaying, he truſted in God that he would deliver him, let him deliver him if he will have him.</hi> And again, <hi>I puton ſack<g ref="char:EOLhyphen"/>cloth</hi> 
+               <note place="margin">Pſal 109. 24.</note> 
+               <hi>alſo and they jeſted upon mee, they that ſit in the gate ſpeake againſt mee, and the drunkards make ſongs upon mee.</hi> But what <note place="margin">Pſal. 69. 11. 12.</note> need I ſpend ſo much time in illuſtrating this third object of the worlds joy, &amp; wicked mens rejoycing, when, alas, wofull experience daily demonſtrates the ſame, in infinite examples at home amongſt our ſelves. May not every true religious man, in his miſery ſay with holy <hi>Job, there are none but moc<g ref="char:EOLhyphen"/>kers with mee. Job.</hi> 17. 2. Let any of Gods children be in miſe<g ref="char:EOLhyphen"/>ry, <note place="margin">Job. 17. 2.</note> in any kind of calamity, and is there not inſtantly ſome in<g ref="char:EOLhyphen"/>ſulting <hi>Shemei</hi> that in ſtead of a comfort returnes a curſe? But let them know that the <hi>Lord will recompence them their wic<g ref="char:EOLhyphen"/>kedneſſe, and deſtroy them in their owne malice.</hi> as it is <hi>Pſal.</hi> 94. <note place="margin">Pſal. 94. 23.</note> at the <hi>last verſe.</hi>
+            </p>
+            <p>The fourth and laſt object of the worlds Joy, and wicked <note place="margin">4. Their owne private working of wickedneſſe.</note> mens rejoycing, is in doing miſcheife cunningly and ſecret<g ref="char:EOLhyphen"/>ly to others. And thus did wicked <hi>Doeg</hi> rejoyce in his malici<g ref="char:EOLhyphen"/>ous ſlandering of and miſcheivous detracting from holy <hi>Da<g ref="char:EOLhyphen"/>vid. Pſ:</hi> 52. 1, 2, 3, and 4 <hi>verſes. Why boaſteſt thou thy ſelfe thou</hi> 
+               <note place="margin">Pſal. 52, 1, 2, 3, 4.</note> 
+               <hi>tyrant, that thou canſt doe miſcheife? Thy tongue imagineth miſcheife, and is like a ſharpe razor that cutteth deceitfully. Thou loveſt all words that may doe hurt, O thou falſe tongue.</hi> In this doe all ſlandering <hi>Sycophants</hi> rejoyce, yea and this is the object of the deceitfull Tale-bearers Joy: How glad is the one if he can but prejudice his neighbour, though it be by
+<pb n="16" facs="tcp:93231:11"/> putting in the <hi>paragoge, dicier</hi> for <hi>dici?</hi> And how merry is the other if he can but cunningly miſcheife his brother, though it be by falſe &amp; forged accuſations? Particular inſtances in this caſe are but ſuperfluous, when as the common courſe of the world is a continuall example. For <hi>Whence,</hi> I pray, <hi>proceed al<g ref="char:EOLhyphen"/>moſt all jarres?</hi> whence come ſo many heavy diſtaſtes, but fro<g ref="char:cmbAbbrStroke">̄</g> falſ accuſers, &amp; flattering <hi>Doegs?</hi> For <hi>without wood,</hi> ſaith Solo<g ref="char:EOLhyphen"/>mon, <hi>the fire is quenched, &amp; without a tale-bearer ſtrife ceaſeth: The words of a Talebearer are as flatterings, and they goe down into the bowells of the belly.</hi> that is, they take deepe impreſſi<g ref="char:EOLhyphen"/>on, and are ſoone and eaſily beleived. <hi>Prov:</hi> 26. 20, and 22. verſes. And thus much be ſpoken of the Objects of the <note place="margin">Prov: 26. 20. and 22. verſes.</note> worlds joy wherein wicked men doe thus rejoyce: A word or two now of the qualities thereof or notes how to know it. <note place="margin">Notes how to know the worldlings Joy. 1 Falſe.</note>
+            </p>
+            <p>The qualities of this wordly Joy, are two. Firſt, it is a <hi>Falſe joy.</hi> Secondly, it is a <hi>Short joy.</hi> Firſt I ſay it is a falſe joy. for the heart is heavy, in the midſt of it, even <hi>in laughing the heart is ſorrowfull, and the end of that mirth is heavineſſe, as Prov.</hi> 14. 13. And like <hi>Belſhazzars</hi> Mirth and Jollity, 'tis mixt with trembling terrour; as his at the hand writing on the wall, ſo theirs at the gaſtly checks of their guilty con<g ref="char:EOLhyphen"/>ſciences. I appeale to every mans particular conſcience here preſent, whether he findes not, or at leaſt hath not found by his owne experience, this joy to be meerely an induction to greife. And therefore <hi>Solomon</hi> the wiſeſt man that ever was gives it the name of <hi>Madneſſe. Eccleſiaſtes.</hi> 2. 2. <hi>I have ſaid</hi> 
+               <note place="margin">Prov: 14. 13. Dan. 5. 5, 6. Eccles. 2. 2.</note> 
+               <hi>of laughter thou art madneſſe, and of joy what is this that thou doeſt? It is better</hi> ſaith Saint <hi>Gregory</hi> in the words of <hi>Solo<g ref="char:EOLhyphen"/>mon, to enter into the houſe of mourning, then the habitation of ſuch rejoycing.</hi> If this beloved be not ſufficient to bring wick<g ref="char:EOLhyphen"/>ed-men quite out of conceit with this their mirth, or rather indeed madneſſe; nor enough to quaile their courage in the eager purſuit of ſuch worldly joy, if yet it's venome lies hid under the garment of good likeing, Let them know in the ſecond place, that it is as <hi>ſhort</hi> as <hi>falſe;</hi> and though it may
+<pb n="17" facs="tcp:93231:11"/> ſeeme to tickle our ſenſes for a while, yet it quickly ſlideth and ſuddainly ſlippeth away, alwayes leaving behind it oc<g ref="char:EOLhyphen"/>caſions rather of repentance, then of calling it againe to re<g ref="char:EOLhyphen"/>membrance. <hi>Knoweſt thou not this of old, and ſince God placed man upon the earth, That the rejoyceing of the wicked is ſhort, and that the joy of Hypocrites is but for a moment? Though his</hi> 
+               <note place="margin">2 It's ſhortnes. Job. 20. 4. 5, 6, and 7, verſes. Eccles. 7, 8.</note> 
+               <hi>Excellency mount up to the heaven, and his head reach unto the clouds, yet ſhall he periſh for ever like his dung, and they which have ſeene him ſhall ſay, where is he? He ſhall flee away as a dreame, and they ſhall not find him, and he ſhall paſſe away as a viſion of the night: ſo Zophar to Job, Job</hi> 20. 4, 5, 6, <hi>and</hi> 7. <hi>verſes.</hi> How little a time did <hi>Herod</hi> injoy his <hi>Herodias?</hi> Not unfitly therefore is the laſting of this joy likened to the <hi>crackling of thornes under a pot,</hi> no ſooner flaſhing, but in<g ref="char:EOLhyphen"/>stantly fleeting. <hi>Eccleſiaſtes</hi> 7. 8.</p>
+            <p>Who then is there here preſent ſo deeply wedded to this <note place="margin">Uſe.</note> worldly joy, that will not now chooſe rather with <hi>Moſes to ſuffer affliction with the children of God, then to enjoy the plea<g ref="char:EOLhyphen"/>ſures of ſinne for a ſeaſon,</hi> for ſo little a time, ſo ſhort a ſpace? <hi>Heb.</hi> 11. 25. What prophane <hi>Eſau</hi> will looſe <hi>his birth-right</hi> 
+               <note place="margin">Heb. 11. 25.</note> 
+               <hi>for a meſſe of poore pottage?</hi> I meane, will hazard heavenly manſions, for a minute of earthly mirth? That will prefer one poore draught of the worlds tranſitory <hi>Nepenthe,</hi> before his owne endleſſe drowning in eternall perdition? Chooſe O chooſe rather, my beloved to weepe, lament, and ſorrow here with Gods children, then with the world to rejoyce; for then your <hi>ſorrow ſhall be turned into joy,</hi> which is the fourth and the laſt particular of my text, <hi>The glad alteration,</hi> and comes now in order to be ſpoken of: of which but breifly becauſe I would not be too tedious.</p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But <hi>your ſorrow ſhall be turned into joy:</hi> This is good newes indeed; were it not for this, our hearts might have burſt with greife, before the glaſſe had beene out, or the Sermon ended: For if <hi>in this life onely we have hope in Chriſt, we are then of all men the</hi>
+               <pb n="18" facs="tcp:93231:12"/> 
+               <hi>moſt miſerable,</hi> witneſſe Saint <hi>Paul.</hi> 1 <hi>Cor:</hi> 15. 19. Yea then <note place="margin">1 Cor: 15 19.</note> with <hi>David</hi> might we juſtly ſay, <hi>Certainely we have clenſed our hearts in vain, and waſht our hands in Innocency; for daily have we beene puniſhed and chaſtened every morning Pſal:</hi> 73. 13. For what are we elſe, beloved, but as ſo many common <note place="margin">Pſal. 73 13.</note> balls banded up and downe here on the racket of the world? Yet here is our comfort, here is our conſolation, <hi>Our ſorrow ſhall be turned into joy.</hi> A glad alteration indeed. 'Tis a good concluſion that makes the premiſes ſo to be eſteemed of: a ſweet reliſh at the leaving off makes that draught delight<g ref="char:EOLhyphen"/>full, which at the firſt did taſte unpleaſant. <hi>Exitus acta pro<g ref="char:EOLhyphen"/>bat:</hi> hence our Engliſh proverb, <hi>That's well that ends well.</hi> Better we know is a bad begining that concludes well, then a proſperous onſet that ends in complaint. What then though our beginings here be bitter? Sorrowes overblowen are pleaſant: <hi>Dulce eſt meminiſſe laborum,</hi> That which hath beene hard to ſuffer is ſweet to remember: what therefore though we have here a wet and a watery Spring tyde, we ſhall be ſure to have a cleere and a joyfull harveſt; <hi>They that ſow in teares ſhall reape in joy: Your ſorrow ſhall be turned in<g ref="char:EOLhyphen"/>to</hi> Joy.</p>
+            <p>The <hi>kinds</hi> of this joy of verity (for ſo Saint Auguſtine ſtile<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it) into which our ſorrow ſhall be turned, I finde to be <hi>three<g ref="char:punc">▪</g>
+               </hi> 
+               <note place="margin">3 Sorts of joy.</note> viz: <hi>in gaudium fidei, in gaudium charitatis, in gaudium aeter<g ref="char:EOLhyphen"/>nitatis.</hi> Firſt into the joy of <hi>Faith,</hi> ſecondly into the joy of <hi>Charity,</hi> and thirdly and laſtly into the joy of <hi>Eternity.</hi> Firſt into the joy of <hi>Faith</hi> and of this joy we read <hi>Luke,</hi> 1. <note place="margin">1 Of Faith. Luk. 1. 46. 47.</note> 46, 47. Where the bleſſed virgin breakes out into her <hi>Mag<g ref="char:EOLunhyphen"/>nificat, My ſoule</hi> (ſaith ſhe) <hi>doth magnify the Lord, and my ſpirit rejoyceth in God my ſaviour.</hi> Secondly into the joy of <note place="margin">2 Of Charity.</note> 
+               <hi>Charity</hi> and love one with another; And ſuch was Saint <hi>Pauls</hi> joy in <hi>Philemon,</hi> love, <hi>Philem:</hi> 7. and in the <hi>Corinthians</hi> to<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">Philem. 7. 2 Cor: 7. 4.</note> 2 <hi>Cor:</hi> 7. 4. The Lord of his mercy in his good time turne all our ſorrowes into this joy, This joy of brotherly Love, and true Chriſtian Charity one towards another; that ſoon we may againe ſee <hi>how good and how pleaſant a thing it is for</hi> 
+               <note place="margin">Pſal. 133. 1.</note>
+               <pb n="19" facs="tcp:93231:12"/> 
+               <hi>brethren to dwell together in unity.</hi> Thirdly and laſtly our ſor<g ref="char:EOLhyphen"/>row <note place="margin">3 Of Eternity</note> ſhall be turned into the joy of <hi>Eternity,</hi> and of this joy we read, <hi>Iſay.</hi> 51, 11. <hi>Therefore the redeemed of the Lord</hi> 
+               <note place="margin">Iſaiah. 51. 11.</note> 
+               <hi>shall returne and come with joy unto</hi> Sion, <hi>and everlaſting joy shall be upon their head: They ſhall obteine ioy and gladneſſe and ſorrow and mourning ſhall flee away;</hi> This joy is perma<g ref="char:EOLhyphen"/>nent, and by Chriſt promiſed to all Gods faithfull ſervants: <note place="margin">Math. 25. 21.</note> 
+               <hi>Eugè bone ſerve, well done good and faithfull ſervant, enter in<g ref="char:EOLhyphen"/>to thy Maſters ioy: where are things which neither eye hath ſeene, nor eare hath heard, nor ever entred into the heart of man to conceive.</hi> as 1 <hi>Cor:</hi> 2. 9. Saint <hi>Aug:</hi> meditating on this joy, <note place="margin">1 Cor. 2. 9.</note> breakes out into an <hi>O gaudium vitale, gaudium ſempiternum &amp; ſempiternè beatum, gaudium ſine moerore, gaudium ſuper gaudium, gaudium vinceus omne gaudium, extra quod non est gaudium &amp;c.</hi> That is, <hi>O living Joy, Joy eternall and eternal<g ref="char:EOLhyphen"/>ly bleſſed, Joy without ſorrow, Joy above Joy, Joy excelling all <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy, without which there is noe Joy &amp;c.</hi>
+            </p>
+            <p>And now beloved chooſe ye one of theſe two, either by <note place="margin">Applic:</note> proſecuting ſtill (with wicked worldlings) the vaine plea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures and delights of this life, with them to weepe, and la<g ref="char:EOLhyphen"/>ment eternally in the life to come, or elſe by participating with the righteous in their ſorrowes, with them alſo to par<g ref="char:EOLhyphen"/>take in this ioy of eternity, into which their ſorrowes ſhall be turned: <hi>
+                  <g ref="char:V">Ʋ</g>bi erit omne bonum, &amp; non erit aliquod malum; <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i erit quicquid voles, &amp; non erit quicquid noles; ubi non e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> 
+               <note place="margin">Aug. in Soliloq.</note> 
+               <hi>hoſt is impugnans, nec ulla illecebra, ſed ſumma &amp; certa ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritas, ſecura tranquillitas, tranquilla jucunditas, jucunda <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elicitas, foelix aeternitas, aeterna beatitudo, beata Trinitas, Trinitatis unitas, <g ref="char:V">Ʋ</g>nitatis Deitas, &amp; Deitatis beata viſio.</hi> ſo Saint <hi>Aug: in Soliloq.</hi> That is, where <hi>there ſhall be all good and noe evill, where there ſhall be whatſoever thou wouldſt have, and nothing that thou wouldſt not have. Where there ſhall be noe enemy to reſiſt, nor any allurement to intiſe, but ſure and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fe ſecurity, ſecure tranquillity, tranquilliucundity, pleaſant <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>appineſſe, happy eternity, eternall bleſſedneſſe, The Bleſſed Tri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty, the <g ref="char:V">Ʋ</g>nity of the Trinity the deity of that <g ref="char:V">Ʋ</g>nity, and the</hi>
+               <pb n="20" facs="tcp:93231:13"/> 
+               <hi>bleſſed viſion of the deity;</hi> unto which mountain of joifull hap<g ref="char:EOLhyphen"/>pineſſe, and happy ioyfullneſſe, he in his good time tranſlate us out of this vale of miſerable ſorrowes, and ſorrowfull mi<g ref="char:EOLhyphen"/>ſeries; even he who hath ſo deerely bought us, Ieſus Chriſt the righteous, To whom with thee O Father and thy bleſſed Spirit be aſcribed all honour, and glory, power and domini<g ref="char:EOLhyphen"/>on, might, and maieſty, both now and for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93231:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
